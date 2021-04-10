@@ -75,7 +75,7 @@
       "^.+\\.(ts|tsx|js)$": "ts-jest"
     },
     "transformIgnorePatterns": [
-      "<rootDir>/node_modules/(?!lodash-es)"
+      "<rootDir>/node_modules/(?!lodash)"
     ],
     "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
     "moduleFileExtensions": [
